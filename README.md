@@ -1,4 +1,3 @@
-# MaleFashionApp
-Võ Hoàn Hảo - 20110472
+# OnlineShop App
+Nguyễn Anh Quân D19HT02
 
-Trần Nguyễn Huy Trường - 20110590
